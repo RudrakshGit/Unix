@@ -19,4 +19,3 @@ The `unix_commands.txt` file includes a comprehensive list of commonly used UNIX
 - **Disk Usage**: Commands for disk and file system management.
 - **Editors**: Commands for text editors.
 
-You can view and download the complete list of commands and their descriptions in the [unix_commands.txt](unix_commands.txt) file.
